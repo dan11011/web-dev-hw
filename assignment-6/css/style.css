@@ -5,6 +5,13 @@ body {
   color: black;
   }
 
+h1 {
+  background-color: #d0d0d0 - rgb(208, 208, 208);
+  color: black;
+  text-align: center;
+  text-color: rgb(238,39,75)
+}
+
 .main-container{
   border-style: dotted;
   border-width: 2px;
@@ -12,13 +19,6 @@ body {
   padding: 15px;
   position: center ;
   left: 40px;
-}
-
-h1 {
-  background-color: #d0d0d0 - rgb(208, 208, 208);
-  color: black;
-  text-align: center;
-  text-color: rgb(238,39,75)
 }
 
 #phrase {
@@ -31,8 +31,8 @@ h1 {
   padding: 10px;
   position: center ;
   center: 40px;
-
 }
+
 p.styled{
   background-color: rgba(186, 178, 72, 0.6);
   color:black;
@@ -40,6 +40,7 @@ p.styled{
   left: 400px;
   top: 500px;
 }
+
 #image-1 {
   /*this is my favorite image*/
   width:750px;
