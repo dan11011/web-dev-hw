@@ -6,11 +6,7 @@ body {
   }
 
 .main-container{
-  border-style: dotted;
-  border-width: 2px;
-  border-color: #f9fbf2;
-  padding: 15px;
-  position: center ;
+  
   left: 40px;
 }
 
