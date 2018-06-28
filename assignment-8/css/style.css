@@ -1,24 +1,10 @@
 .parent-container h2 {
   margin: 5em 4em;
 }
-.parent-container {
-   width: 600px;
-   height: 600px;
-   background-color: #731494;
-}
-.parent-container h2 {
-   font-size: x-large;
-   font-weight: bolder;
-   font-style: italic;
-   position: fixed;
-}
-.parent-container{
-  border-style: dotted;
-  border-width: 2px;
-  border-color: #eaf1d0;
-  padding: 15px;
-  position: center ;
-  left: 40px;
+
+.button {
+  font-size: x-large;
+  margin: 10%
 }
 .inner-box {
    width: 400px;
