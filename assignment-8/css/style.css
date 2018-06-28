@@ -23,3 +23,7 @@
   z-index: 0;
   opacity: 75%;
 }
+a:hover {
+   color: #1CCDCA;
+   font-style: italic;
+}
