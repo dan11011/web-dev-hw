@@ -10,13 +10,7 @@ body {
 font-size: 1.5em;
 font-family: sans-serif, Trebuchet MS, Verdana, sans-serif
 }
-/* This is the file, "fonts.css." */
-@font-face {
-   font-family: 'Playfair';
-   src: url('../fonts/PlayfairDisplay-Regular.ttf') format('opentype');
-   font-weight: normal;
-   font-style: normal;
-}
+
 .p1{
   font-family: cursive;
   font-weight: bold;
@@ -49,7 +43,7 @@ p.intro:first-letter {
   font-size: 300%;}
 
 
-.main-content p:first-child::first-letter {
+.styled p:first-child::first-letter {
    font-family: 'Kumar One Outline', cursive; Trebuchet MS, Verdana, sans-serif
    font-size: 3.5em;
    font-weight: bold;
