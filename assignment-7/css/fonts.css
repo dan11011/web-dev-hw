@@ -26,11 +26,11 @@ p.intro:first-letter {
 
 .main-content p:first-child::first-letter {
    font-family: 'Kumar One Outline', cursive; Trebuchet MS, Verdana, sans-serif
-   font-size: 2.5em;
+   font-size: 3.5em;
    font-weight: bold;
 }
 .main-content p:first-child::first-line {
-   color: #ff0000;
+   color: #ff00bf;
 }
 
 /* PSEUDO CLASS - Select the first paragraph child: */
