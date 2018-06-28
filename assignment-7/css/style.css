@@ -30,17 +30,17 @@ p.:first-letter {
   font-size: 300%;}
 
 .main-content {
-  font-family: serif;
+  font-family: serif; Trebuchet MS, Verdana, sans-serif;
 }
 .p1 {
-  font-family: cursive;
+  font-family: serif; Trebuchet MS, Verdana, sans-serif
   font-style: oblique;
   font-weight: lighter;
 }
 
 .main-content p:first-child::first-letter {
    font-family: 'Kumar One Outline', cursive; Trebuchet MS, Verdana, sans-serif
-   font-size: 3.5em;
+   font-size: 5.5em;
    font-weight: bold;
 }
 body {
