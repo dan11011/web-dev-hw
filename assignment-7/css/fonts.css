@@ -1,0 +1,22 @@
+.main-content {
+   font-family: serif;
+   font-size: 1em;
+   margin: 0.5em;
+   background-color: #fff;
+   text-indent: 1.5em;
+   line-height: 1.5em;
+}
+
+.main-content p:first-child::first-letter {
+   font-family: 'Kumar One Outline', cursive;
+   font-size: 2.5em;
+   font-weight: bold;
+}
+.main-content p:first-child::first-line {
+   color: #E95420;
+}
+
+/* PSEUDO CLASS - Select the first paragraph child: */
+.main-content p:first-child {
+   text-indent: 0;
+}
