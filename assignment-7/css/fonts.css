@@ -50,7 +50,7 @@ p intro:first-letter {
   font-size: 300%;}
 
 
-.styled p:first-child::first-letter {
+.main-content p:first-child::first-letter {
    font-family: 'Kumar One Outline', cursive; Trebuchet MS, Verdana, sans-serif
    font-size: 3.5em;
    font-weight: bold;
