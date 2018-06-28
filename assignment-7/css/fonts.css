@@ -17,7 +17,10 @@ font-family: sans-serif, Trebuchet MS, Verdana, sans-serif
    font-weight: normal;
    font-style: normal;
 }
-.king
+.p1{
+  font-family: cursive;
+  font-weight: bold;
+}
 
 .element-1 {
    font-size: 1.5em;
