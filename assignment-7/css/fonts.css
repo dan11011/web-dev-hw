@@ -11,6 +11,12 @@ font-size: 1.5em;
 font-family: sans-serif, Trebuchet MS, Verdana, sans-serif
 }
 
+@font-face {
+    font-family: Montserrat;
+    src: url(../fonts/Montserrat-Black.ttff);
+    font-weight: bold;
+}
+
 .p1{
   font-family: cursive;
   font-weight: bold;
