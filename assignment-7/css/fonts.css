@@ -6,6 +6,14 @@
    text-indent: 1.5em;
    line-height: 1.5em;
 }
+.element-1 {
+font-size: 1.5em;
+font-family: sans-serif;
+}
+
+p.intro:first-letter {
+  font-size: 200%;}
+
 
 .main-content p:first-child::first-letter {
    font-family: 'Kumar One Outline', cursive;
