@@ -17,7 +17,7 @@
 .socialmedia_graphic {
   width:80px;
   height:80px;
-  position: absolute;
+  position: center;
   top:150px;
   left: 55%;
   z-index: 0;
