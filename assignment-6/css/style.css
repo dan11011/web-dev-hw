@@ -6,7 +6,11 @@ body {
   }
 
 .main-container{
-  
+  border-style: dotted;
+  border-width: 2px;
+  border-color: #eaf1d0;
+  padding: 15px;
+  position: center ;
   left: 40px;
 }
 
@@ -22,15 +26,15 @@ h1 {
   color:black;
   float:center;
   border-style: dotted;
-  border-width: 2px;
-  border-color: #f9fbf2;
-  padding: 15px;
+  border-width: 6px;
+  border-color: #a5d2d2;
+  padding: 10px;
   position: center ;
-  left: 40px;
+  center: 40px;
 
 }
 p.styled{
-  background-color: rgba(190, 26, 26, 0.6);
+  background-color: rgba(186, 178, 72, 0.6);
   /*border here*/
   color:black;
   float:center;
@@ -40,7 +44,7 @@ p.styled{
 #image-1 {
   width:750px;
   height:900px;
-  float: center;
+  float: left;
 }
 #image-4 {
   Width:750px;
@@ -50,5 +54,5 @@ p.styled{
 #image-3 {
   Width:750px;
   height:900px;
-  float:center;
+  float:right;
 }
