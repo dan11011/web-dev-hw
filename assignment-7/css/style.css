@@ -3,7 +3,6 @@ body {
 
   }
 
-
 a:active {
    color: #79AF33;
    text-decoration: none;
@@ -23,17 +22,21 @@ a:hover {
 }
 
 .heading-2 {
-  letter-spacing: 0.1em;
-}
-
-.heading-1 {
     font-family: 'Comic Sans MS',
     'Comic Sans', Trebuchet MS, Verdana, sans-serif;
 }
 
-p.intro:first-letter {
+p.:first-letter {
   font-size: 300%;}
 
+.main-content {
+  font-family: serif;
+}
+.p1 {
+  font-family: cursive;
+  font-style: oblique;
+  font-weight: lighter;
+}
 
 .main-content p:first-child::first-letter {
    font-family: 'Kumar One Outline', cursive; Trebuchet MS, Verdana, sans-serif
