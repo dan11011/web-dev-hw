@@ -18,17 +18,17 @@ font-family: sans-serif, Trebuchet MS, Verdana, sans-serif
     font-weight: bold;
 }
 
-p1{
+.p1{
   font-family: cursive;
   font-weight: bold;
 }
 
-element-1 {
+.element-1 {
    font-size: 1.5em;
    font-family: sans-serif;
 }
 
-p3 {
+.p3 {
    font-family: serif;
 }
 
@@ -37,11 +37,11 @@ a:hover {
    font-style: italic;
 }
 
-heading-2 {
+.heading-2 {
   letter-spacing: 0.1em;
 }
 
-heading-1 {
+.heading-1 {
     font-family: 'Comic Sans MS',
     'Comic Sans', Trebuchet MS, Verdana, sans-serif;
 }
@@ -50,16 +50,16 @@ p intro:first-letter {
   font-size: 300%;}
 
 
-styled p:first-child::first-letter {
+.styled p:first-child::first-letter {
    font-family: 'Kumar One Outline', cursive; Trebuchet MS, Verdana, sans-serif
    font-size: 3.5em;
    font-weight: bold;
 }
-main-content p:first-child::first-line {
+.main-content p:first-child::first-line {
    color: #ff00bf;
 }
 
 /* PSEUDO CLASS - Select the first paragraph child: */
-main-content p:first-child {
+.main-content p:first-child {
    text-indent: 0;
 }
