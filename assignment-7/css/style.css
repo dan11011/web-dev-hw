@@ -8,6 +8,9 @@ a:active {
    color: #79AF33;
    text-decoration: none;
 }
+.p3 {
+   font-family: serif;
+}
 
 a:hover {
    color: #1CCDCA;

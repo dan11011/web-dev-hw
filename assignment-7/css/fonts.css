@@ -11,7 +11,11 @@ font-size: 1.5em;
 font-family: sans-serif, Trebuchet MS, Verdana, sans-serif
 }
 
-#heading-1 {
+.heading-2 {
+  letter-spacing: 0.1em;
+}
+
+.heading-1 {
     font-family: 'Comic Sans MS',
     'Comic Sans', Trebuchet MS, Verdana, sans-serif;
 }
@@ -26,7 +30,7 @@ p.intro:first-letter {
    font-weight: bold;
 }
 .main-content p:first-child::first-line {
-   color: #E95420;
+   color: #ff0000;
 }
 
 /* PSEUDO CLASS - Select the first paragraph child: */
