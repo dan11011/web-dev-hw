@@ -44,12 +44,12 @@ p.styled{
   top: 500px;
 }
 #image-1 {
-  width:600px;
-  height:800px;
-  float: right;
+  width:400px;
+  height:600px;
+  float: center;
 }
 #image-2 {
   Width:400px;
   height:600px;
-  float:right;
+  float:center;
 }
