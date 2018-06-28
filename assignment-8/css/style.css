@@ -11,6 +11,14 @@
    font-weight: bolder;
    font-style: italic;
 }
+.parent-container{
+  border-style: dotted;
+  border-width: 2px;
+  border-color: #eaf1d0;
+  padding: 15px;
+  position: center ;
+  left: 40px;
+}
 .inner-box {
    width: 400px;
    height: 400px;
