@@ -3,14 +3,16 @@ body {
 
   }
 
-.element-1 {
-   font-size: 1.5em;
-   font-family: sans-serif;
-}
+
 a:active {
    color: #79AF33;
    text-decoration: none;
 }
+.element-1 {
+   font-size: 1.5em;
+   font-family: sans-serif;
+}
+
 .p3 {
    font-family: serif;
 }
@@ -19,3 +21,24 @@ a:hover {
    color: #1CCDCA;
    font-style: italic;
 }
+
+.heading-2 {
+  letter-spacing: 0.1em;
+}
+
+.heading-1 {
+    font-family: 'Comic Sans MS',
+    'Comic Sans', Trebuchet MS, Verdana, sans-serif;
+}
+
+p.intro:first-letter {
+  font-size: 300%;}
+
+
+.main-content p:first-child::first-letter {
+   font-family: 'Kumar One Outline', cursive; Trebuchet MS, Verdana, sans-serif
+   font-size: 3.5em;
+   font-weight: bold;
+}
+body {
+   font-family: serif, Trebuchet MS, Verdana, sans-serif
